@@ -12,6 +12,10 @@ h1, h2, h3, h4 {
   color: white;
 }
 
+.sm-spacing{
+  padding-bottom: .5em;
+}
+
 #landing {
   background-image: url('../images/banner1.jpg');
   background-repeat: no-repeat;
@@ -52,11 +56,27 @@ h1, h2, h3, h4 {
   padding-bottom: 9em;
 }
 
+#locations {
+  padding-bottom: 6em;
+}
+
 #locationImg {
   padding-top: 6em;
   padding-bottom: 6em;
 }
 
-.sm-spacing{
-  padding-bottom: .5em;
+#banner3 {
+  background-image: url('../images/banners/banner4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#banner3 h1 {
+  padding-top: 9em;
+  padding-bottom: 9em;
+}
+
+#harvestImg {
+  padding-top: 6em;
+  padding-bottom: 6em;
 }
