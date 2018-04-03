@@ -24,11 +24,11 @@ h1, h2, h3, h4 {
 
 }
 
-#aboutContent{
-  padding-bottom: 6em;
+#about{
+  padding-bottom: 7em;
 }
 
-#about {
+#aboutImg {
   padding-top: 6em;
   padding-bottom: 6em;
 }
@@ -50,4 +50,13 @@ h1, h2, h3, h4 {
 #banner2 h1 {
   padding-top: 9em;
   padding-bottom: 9em;
+}
+
+#locationImg {
+  padding-top: 6em;
+  padding-bottom: 6em;
+}
+
+.sm-spacing{
+  padding-bottom: .5em;
 }
