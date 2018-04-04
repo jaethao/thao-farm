@@ -80,3 +80,12 @@ h1, h2, h3, h4 {
   padding-top: 6em;
   padding-bottom: 6em;
 }
+
+#harvests {
+  padding-bottom: 7em;
+}
+
+footer p {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
